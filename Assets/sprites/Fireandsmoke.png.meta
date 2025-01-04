@@ -1,0 +1,1535 @@
+fileFormatVersion: 2
+guid: 1c7a4be74fbf6ee489a4240347d388f3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fireandsmoke_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 783
+        width: 47
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c53ad4cccd92ef4caef842f52d04c38
+      internalID: -1721101093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 783
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639f4b6bd25eb5a43aaa046dc6628933
+      internalID: 1866409512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 783
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208a6ab7d288a614a8edd652b99359b1
+      internalID: -431498026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 783
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7940d10f1198fd46bbbc8ccfebb03b6
+      internalID: -732589267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 783
+        width: 49
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf68b67f46283a48bfb3f2f854d0f14
+      internalID: 651162071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_5
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 783
+        width: 49
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbda99b412ef254d9abfedd28d59a69
+      internalID: 231908523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_6
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 783
+        width: 50
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5673d0194885ce547a4eadf4ea0dc864
+      internalID: 1592839072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_7
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 783
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d176fa36fb4d02043a16a7a97f8df5e5
+      internalID: -68524226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 680
+        width: 51
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0d82f336d2b6f48bf261f291d1af1d
+      internalID: -1667063621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 680
+        width: 51
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009aa0fc9c99f634890be81e7991a0b6
+      internalID: -457878178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 680
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ae3e1882c0b2f4fb70edb28611593e
+      internalID: 2052530057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 680
+        width: 51
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089233d4dfb2678459683784558f55a0
+      internalID: -1085114231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_12
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 680
+        width: 52
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be38d2e1e1b6b584688eb2d448e2e187
+      internalID: 1126345339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_13
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 680
+        width: 51
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3491b9da3d2e67443992bf7966d6fb27
+      internalID: 424252717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_14
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 680
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8472b860974f7f44d995f2dd270a86e3
+      internalID: -192930318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_15
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 680
+        width: 52
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ce74871fa7e5947a8677de0cbb9b06
+      internalID: -241648526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_16
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 577
+        width: 51
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c0b8691a86aa44cb1f7fc72ee18ec4
+      internalID: -1619884298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 577
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceef493317fee24185a19916322b5af
+      internalID: -2045273198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_18
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 577
+        width: 50
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd426a6ca33aa954b849a3b32e38c92f
+      internalID: 896722084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_19
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 577
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662dd2218b174e74f875bb3d047ab75a
+      internalID: 839174941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_20
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 577
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7baaf96bbaaff439b4cffe77af5d9d
+      internalID: 1897928609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_21
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 577
+        width: 48
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e521dda4c8af641a8495a80f67edde
+      internalID: -2055104008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_22
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 577
+        width: 48
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2be77a60c47b904cb166b0010233747
+      internalID: -1282972866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_23
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 577
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99fabd7d37722d4a8304737c7e321c0
+      internalID: 369150551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_24
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 474
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71aacd66e7a305478fa8f9c469729bb
+      internalID: 545810879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 474
+        width: 47
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4839002f2c9b74984d3d8f8211a16f
+      internalID: 825444566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_26
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 474
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220cff7410d2d3541b79c1bd531e2f68
+      internalID: 1194628291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_27
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 474
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ae8af1b0b57fd4fbb34078a0104806
+      internalID: 1127752127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_28
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 474
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd90b49f2d28db14687624ef5b7733a5
+      internalID: -424999595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_29
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 474
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1d1f8035d92384f8b4b6b517aa9733
+      internalID: -778862451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_30
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 474
+        width: 48
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49db1f683081ecf4cae8ed3fcaebfe50
+      internalID: -997883225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_31
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 473
+        width: 48
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afda07b1cd0aab444b61a123cbac6d13
+      internalID: 106524166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_32
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 370
+        width: 49
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3d157d6d4e78e41b1f7b6d07e80b5f
+      internalID: 1170867219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 370
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412a916cef2acbe4f949958f9d861c64
+      internalID: -1227502832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_34
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 371
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66b06e8215995d49bfeb301fdfd3314
+      internalID: 1413207537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_35
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 370
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54049a0d361f2e847ab43c16fc3e10bd
+      internalID: -485463562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_36
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 370
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79f8c34a468c9548ba37c89a836e8d5
+      internalID: 193526793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_37
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 370
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe49c530e33acb4dbd1f592a8f8ac0b
+      internalID: 1871976865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_38
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 370
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e30f5f1741dcb46b30efee2d20b61a
+      internalID: -1248504771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_39
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 370
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1ff75fb8954f94db5bbfd03d673c3b
+      internalID: -123667614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 267
+        width: 48
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4240e61687a501a429e0fca4b6185be3
+      internalID: 1204403517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_41
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 267
+        width: 49
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f500cb9dc06e9645823cdd25a7bccba
+      internalID: -1324034868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_42
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 267
+        width: 48
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5284a344a209ae4399f3da31b19f574
+      internalID: 645816718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_43
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 267
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21986703b961474280717ae82e78d19
+      internalID: 270075966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_44
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 267
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99de0979afa55684c97a14c223f5f705
+      internalID: 1066740049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_45
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 267
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d04d693d55f0345b77fa83a67cb466
+      internalID: -1584938582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_46
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 267
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a313e149f52a22a40946365fdc7a92c9
+      internalID: 1382150984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_47
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 267
+        width: 47
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164aa0542cdcd0e46b4fa03389562830
+      internalID: -146614839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_48
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 164
+        width: 47
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c582e59ac03c64c9cd6888648fd644
+      internalID: -2144809046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_49
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 164
+        width: 47
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1562c76bdd8d04f9ab50a2850be3cd
+      internalID: -1351685435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_50
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 164
+        width: 48
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da275dbd23a2b24493d8aa997457f35
+      internalID: 2089896577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_51
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 164
+        width: 48
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8028d901581144bbec76c5a00b0941
+      internalID: -473279182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_52
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 164
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dcef2923de9bb42af36c6a5bd13f0b
+      internalID: -678081342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_53
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 164
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76551ac7efba304cafb64a7f46cf4ad
+      internalID: 1025864470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_54
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 164
+        width: 47
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed9f41f68fdcb744a093eb80a3f928d
+      internalID: 412002134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_55
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 164
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b911813de4a20e64ba03f6de5e590c48
+      internalID: 1219038107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_56
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 61
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ccf2dd5a46c7e449cab8a4701a3b94
+      internalID: -1755460844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_57
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 61
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc298872a8a3c344aa450f082db57fa
+      internalID: -1719204723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_58
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 61
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d9ab0dc5625414b97098b46e5dadb1
+      internalID: -1391602003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_59
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 61
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6599edab4373f6469f5699d4492c3cf
+      internalID: 282287271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_60
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 61
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1893af38e03f57640a2ae0b197fc2f9f
+      internalID: -1985667678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_61
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 61
+        width: 47
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e308c7b47442748a1fcf331eb8d0cd
+      internalID: -267117196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_62
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 61
+        width: 47
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37afaec50e7c934caef7a20d50285d4
+      internalID: -2112653914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireandsmoke_63
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 61
+        width: 46
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd3a7ac1ca527b4783a302699df0a88
+      internalID: -820942116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fireandsmoke_0: -1721101093
+      Fireandsmoke_1: 1866409512
+      Fireandsmoke_10: 2052530057
+      Fireandsmoke_11: -1085114231
+      Fireandsmoke_12: 1126345339
+      Fireandsmoke_13: 424252717
+      Fireandsmoke_14: -192930318
+      Fireandsmoke_15: -241648526
+      Fireandsmoke_16: -1619884298
+      Fireandsmoke_17: -2045273198
+      Fireandsmoke_18: 896722084
+      Fireandsmoke_19: 839174941
+      Fireandsmoke_2: -431498026
+      Fireandsmoke_20: 1897928609
+      Fireandsmoke_21: -2055104008
+      Fireandsmoke_22: -1282972866
+      Fireandsmoke_23: 369150551
+      Fireandsmoke_24: 545810879
+      Fireandsmoke_25: 825444566
+      Fireandsmoke_26: 1194628291
+      Fireandsmoke_27: 1127752127
+      Fireandsmoke_28: -424999595
+      Fireandsmoke_29: -778862451
+      Fireandsmoke_3: -732589267
+      Fireandsmoke_30: -997883225
+      Fireandsmoke_31: 106524166
+      Fireandsmoke_32: 1170867219
+      Fireandsmoke_33: -1227502832
+      Fireandsmoke_34: 1413207537
+      Fireandsmoke_35: -485463562
+      Fireandsmoke_36: 193526793
+      Fireandsmoke_37: 1871976865
+      Fireandsmoke_38: -1248504771
+      Fireandsmoke_39: -123667614
+      Fireandsmoke_4: 651162071
+      Fireandsmoke_40: 1204403517
+      Fireandsmoke_41: -1324034868
+      Fireandsmoke_42: 645816718
+      Fireandsmoke_43: 270075966
+      Fireandsmoke_44: 1066740049
+      Fireandsmoke_45: -1584938582
+      Fireandsmoke_46: 1382150984
+      Fireandsmoke_47: -146614839
+      Fireandsmoke_48: -2144809046
+      Fireandsmoke_49: -1351685435
+      Fireandsmoke_5: 231908523
+      Fireandsmoke_50: 2089896577
+      Fireandsmoke_51: -473279182
+      Fireandsmoke_52: -678081342
+      Fireandsmoke_53: 1025864470
+      Fireandsmoke_54: 412002134
+      Fireandsmoke_55: 1219038107
+      Fireandsmoke_56: -1755460844
+      Fireandsmoke_57: -1719204723
+      Fireandsmoke_58: -1391602003
+      Fireandsmoke_59: 282287271
+      Fireandsmoke_6: 1592839072
+      Fireandsmoke_60: -1985667678
+      Fireandsmoke_61: -267117196
+      Fireandsmoke_62: -2112653914
+      Fireandsmoke_63: -820942116
+      Fireandsmoke_7: -68524226
+      Fireandsmoke_8: -1667063621
+      Fireandsmoke_9: -457878178
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

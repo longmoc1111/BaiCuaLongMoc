@@ -67,13 +67,13 @@ public class playerHealth : MonoBehaviour
 
     public void Death()
     {
-        playerDie.SetTrigger("die");
+        // playerDie.SetTrigger("die");
 
-        Animator[] animators = GetComponentsInChildren<Animator>();    
-        foreach (Animator animator in animators)
-        {
-            animator.speed = 0; // Dừng tất cả các hoạt ảnh
-        }
+        // Animator[] animators = GetComponentsInChildren<Animator>();    
+        // foreach (Animator animator in animators)
+        // {
+        //     animator.speed = 0; // Dừng tất cả các hoạt ảnh
+        // }
     }
   
     private void StartHealing()

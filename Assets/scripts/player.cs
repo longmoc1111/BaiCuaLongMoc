@@ -20,7 +20,6 @@ public class player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
         moveInput.x = Input.GetAxis("Horizontal");
         moveInput.y = Input.GetAxis("Vertical");
         transform.position += moveInput * moveSpeed * Time.deltaTime;
@@ -36,4 +35,5 @@ public class player : MonoBehaviour
     public void TakeDamage(int damage){
         playerHealth.TakeDam(damage);
     }
+    
 }
